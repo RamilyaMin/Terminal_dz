@@ -78,4 +78,3 @@ mv file1.txt dvd.json flou1
 1) Посмотреть где я - pwd
 2) Создать папку - mkdir foldername
 3) Зайти в папку - cd foldername
-
